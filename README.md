@@ -1,5 +1,5 @@
 ## HI! I'M Meher Pathe👋
-|| Python Developer|| AI Enginer||
+|| Python Developer|| AI Engineer||
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meherpathe) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@@meherpathe) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:meherpathe07@gmail.com) 
